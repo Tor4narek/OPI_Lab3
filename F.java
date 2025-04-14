@@ -11,4 +11,8 @@ public class F {
     public byte oo() {
         return 3;
     }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
 }
