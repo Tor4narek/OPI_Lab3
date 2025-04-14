@@ -15,4 +15,8 @@ public class F {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
 }
