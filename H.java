@@ -11,12 +11,4 @@ public class H extends F {
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
-
-    public int[] ii() {
-        return new int[]{0, 1, 2, 3, 4};
-    }
-
-    public int cc() {
-        return 13;
-    }
 }
